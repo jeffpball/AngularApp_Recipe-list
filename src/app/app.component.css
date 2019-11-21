@@ -1,0 +1,9 @@
+h3 {
+    color: darkblue;
+}
+
+#button-container {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
